@@ -1,7 +1,7 @@
 rerequisites for Compilation
 -----------------------------
 
-Prerequisites
+Prerequisites:
 - GNU autotools/libtool
 - libpcap or PF_RING (optional but recommended)
 
